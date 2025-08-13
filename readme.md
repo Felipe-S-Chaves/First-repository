@@ -9,8 +9,8 @@ de git e gitgub*
 git commit -m "Olá Mundo!"
 `
 
-- [ ] Instalar Git na maquina
-- [ ] Revisar comandos Unix
-- [ ] Acessando conta no Github
-- [ ] Criar repositorio local
-- [ ] Criar repositorio github
+- [X] Instalar Git na maquina
+- [X] Revisar comandos Unix
+- [X] Acessando conta no Github
+- [X] Criar repositorio local
+- [X] Criar repositorio github
